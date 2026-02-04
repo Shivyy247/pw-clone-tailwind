@@ -1,4 +1,4 @@
-# 🤡 PW Clown Website
+# PW Clone Website
 
 A fun and responsive **PW Clown themed website** built using **HTML** and **Tailwind CSS**.  
 This project was created to practice Tailwind utility classes and responsive design.
